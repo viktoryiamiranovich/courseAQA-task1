@@ -6,12 +6,15 @@
         <parameter name="inkContainerValue2" value="0"/>
         <parameter name="inkContainerValue3" value="-1"/>
         <parameter name="inkContainerValue4" value="1"/>
+        <parameter name="inkContainerValue5" value="null"/>
         <parameter name="sizeLetter1" value="1.0"/>
         <parameter name="sizeLetter2" value="2.0"/>
         <parameter name="sizeLetter3" value="0"/>
         <parameter name="sizeLetter4" value="1.6"/>
+        <parameter name="sizeLetter5" value="null"/>
         <parameter name="color1" value="BLUE"/>
         <parameter name="color2" value="RED"/>
+        <parameter name="color3" value=""/>
         <classes>
             <class name="com.itechart.PenTest"/>
         </classes>
