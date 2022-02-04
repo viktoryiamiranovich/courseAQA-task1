@@ -1,7 +1,7 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 
-<suite name="Suite1" verbose="1" >
-    <test name="test1" >
+<suite name="PositiveAndNegativeTestForPen" verbose="1" >
+    <test name="testForPen" >
         <parameter name="inkContainerValue1" value="10"/>
         <parameter name="inkContainerValue2" value="0"/>
         <parameter name="inkContainerValue3" value="-1"/>
@@ -18,8 +18,5 @@
         <classes>
             <class name="com.itechart.PenTest"/>
         </classes>
-    </test>
-
-    <test name="test2">
     </test>
 </suite>
